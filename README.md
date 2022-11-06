@@ -1,5 +1,5 @@
 # Why does this exist?
-This SSDT exists so that anyone who had a PM981 drive installed in their ThinkPad T490 can disable it in case they have another OS installation or are physically unable to remove it.
+This SSDT exists so that anyone who had a SSD installed in their ThinkPad T490 can disable it. I used it becasue I had a PM981 drive installed with another OS install which was causing some issues in macOS.
 
 # Compatibility
 Compatibility with newer versions is not guarenteed. Tested upto macOS Monterey 12.6.1 using Opencore v0.8.5.
